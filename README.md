@@ -6,7 +6,7 @@
 
 *`Maven Careers`* is an agency that provides career guidance services, including high school visits across the United States, as a non-profit organization dedicated to assisting high school seniors in finding their career paths.
 
-In this project, *"as an employee of Maven Careers"*, I will develop an interactive dashboard for senior high students to assist them in selecting their career paths by presenting information on `regional revenues` and `employment opportunities` in the United States. The dashboard will feature a region selection filter and a map.
+In this project, *"as an employee of Maven Careers"*, I will develop an interactive dashboard for senior high students to assist them in selecting their career paths by presenting information on **wages by positions and regions**, as well as **employment opportunities** in the United States. The dashboard will feature a region selection filter and a map.
 
 The data I will utilize is from the years 2017 to 2020.
 
